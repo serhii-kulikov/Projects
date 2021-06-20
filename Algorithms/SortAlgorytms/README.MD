@@ -1,12 +1,9 @@
 Graphical comparison of the speed of execution of sorting algorithms 
 ====================================================================
-В репозитории `Projects/Algorithms/SortAlgorytms/` существуют файл `main.py` и `class_Sort_Alg.py` и некоторое количество .txt files. Файлы .py выполнены на Python3.8.5. 
+In the repository `Projects / Algorithms / SortAlgorytms /` there are files `main.py` and` class_Sort_Alg.py` and a number of .txt files. The .py files are executed in Python3.8.5.
 ***
-Файл `class_Sort_Alg.py` является классовым файлом. Файл хранит алгоритмы сортировки Counting, Insertion, Heap,  Quick, Bubble. В будущем его можно дополнить.
+The file `class_Sort_Alg.py` is a class file. The file stores sorting algorithms Counting, Insertion, Heap, Quick, Bubble. It can be supplemented in the future.
 ***
-Файл `main.py` выполняет несколько задач. 1. Сортировку массива из случайных данных с параметрами:
-`len_mas` -- его длинна 
-`min_val` -- минимальное значение в массиве
-`max_val` -- максимальное значение в массиве
-Запись данных происходит в файлы формата .txt, с возможностью перезаписи.
-2. Графический вывод данных которые записаны в .txt файлы.
+The `main.py` file performs several tasks. 
+1. Sorting an array from random data with parameters: `len_mas` - its the length of array, `min_val` - the minimum value in the array, `max_val` - maximum value in the array. Data is written to files in .txt format, with the possibility of rewriting.
+2. Graphic output of data that is written to .txt files.
