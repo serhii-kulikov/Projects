@@ -11,7 +11,7 @@ The `main.py` file performs several tasks.
 2. Print Mean Year Information of this dataset.
 3. Print Mean/Max/Min temperature of the year and summ Rainfall.
 
-Based on sourses: <storymaps.arcgis.com/stories/345bc9c775d1424280b776ec38c3b1e1>, <en.wikipedia.org/wiki/Mediterranean_climate>. This dataset from `Hot Summer mediterrian climate` (Csa).
+Based on sources: <storymaps.arcgis.com/stories/345bc9c775d1424280b776ec38c3b1e1>, <en.wikipedia.org/wiki/Mediterranean_climate>. This dataset from `Hot Summer mediterrian climate` (Csa).
 ***
 The file `MLmain.py` give the predicts of Rain and calculate the all accuracy metrics. It was used the models of: linear regression, decision tree, random forest and neural networks.
 ***
