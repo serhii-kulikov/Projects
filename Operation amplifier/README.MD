@@ -1,4 +1,4 @@
-Operational Amplifier Mathematical Modeling
+Mathematical Modeling of Operational Amplifier
 ====================================================================
 In the repository `Projects/Operation amplifier/` there are files `main.py` and` class_OpAm.py` and a `Initial_File.txt`. The .py files are executed in Python3.8.5.
 ***
