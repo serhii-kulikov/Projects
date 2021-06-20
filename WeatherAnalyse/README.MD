@@ -4,7 +4,7 @@ In the repository `Projects / WetherAnalyse /` there are files `main.py` and` cl
 ***
 The `wether.csv` was downloaded from this [link](https://storage.googleapis.com/kagglesdsdata/datasets/6883/9923/weather.csv) at April, 16, 2021.
 ***
-The file `class_file.py` is a class file. The file stores `class BarAnalyse` and `class PlotAndlyse`. This clases can create plot or Bar of 1 of the columns with mean or interpolate value.
+The file `class_file.py` is a class file. The file stores `class BarAnalyse` and `class PlotAndlyse`. This classes can create plot or Bar of 1 of the columns with mean or interpolate value.
 ***
 The `main.py` file performs several tasks.
 1. Shows one of the table parameters depending on the day number (on the graph).
